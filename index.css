@@ -1,0 +1,184 @@
+*{
+    box-sizing: border-box;
+    background-color: rgb(28, 27, 27);
+    color: #787777;
+    font-size: 20px;
+    letter-spacing: 1.5px;
+    line-height: 30px;
+ 
+    margin: 0 auto;
+    /* user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+-webkit-touch-callout: none;
+-webkit-user-select: none;
+-khtml-user-select: none; */
+
+}
+
+.tel{
+    border: 1px solid #787777;
+    border-radius: 5px;
+}
+.logo{
+  font-size: 50px;
+  
+  margin-bottom: 40px;
+}
+
+.close{
+  margin-bottom: 40px;
+  font-size: 40px;
+}
+
+button{
+    border: none;
+}
+span{
+        font-size: 40px;
+        color: aliceblue;
+}
+.tab{
+    margin: 15px;
+}
+.tablinks{
+    font-size: 30px;
+}
+h3{
+    font-size: 30px;
+}
+
+.box1{
+    text-align: center;
+    padding-top: 30px;
+}
+.box11{
+  text-align: center;  
+}
+
+.box2{
+    margin-top: 40px;
+    display: none;
+}
+
+.b{
+    display: flex;
+    width: 100%;
+   
+}
+
+.b1{
+    width: 40%;
+    text-align:left ;
+    margin-left: 10%;
+}
+
+.b2{
+    width: 23%;
+}
+
+.b3{
+    width: 23%;
+}
+
+.b4{
+    width: 23%;
+    margin-right: 0px;
+}
+
+.tabcontent {
+    display: none;
+    
+  
+  }
+
+  .img1 {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+  }
+  .fot{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px 100px;
+ 
+  }
+  .team{
+    padding: 20px;
+  }
+
+  .fot1{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px 100px;
+
+  
+  }
+  .team1{
+    padding: 10px;
+ 
+    margin: 0px 0px;  
+    
+  }
+  .img{
+    
+    padding-top: 0px;
+    margin-top: 0px;
+    width: 350px;
+    height: 450px;
+    
+  }
+  .p1{
+    padding-top: 0px;
+    margin-top: 0px;
+    background-color: rgb(244, 244, 244);
+  }
+
+  .footer{
+    margin-top:60px ;
+    text-align: center;
+  }
+  .in{
+    width: 60px;
+    height: 60px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    
+  }
+  select{
+    border: 1px solid rgb(28, 27, 27);
+    margin-left: 5px;
+    margin-bottom: 40px;
+  }
+  option{
+    border: 1px solid rgb(28, 27, 27);
+  }
+  .master{
+    display: flex;
+ 
+  }
+  .spec{
+  margin-right: 5px;
+  }
+
+  .section{
+    display: flex;
+  }
+  .section1{
+    text-align: left;
+    
+  }
+
+  .section2{
+    
+  display: none;
+  }
+/* .stylist{
+  display: none;
+}
+.top-stilist{
+  display: none;
+} */
+
+  
+
